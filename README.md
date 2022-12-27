@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ChandanInTech
-- 👀 I’m interested in working with UI and data
+- 👋 Hi, this is Chandan, I'm an Android Developer
+- 👀 I’m interested in working with UI and Data
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on Flutter Projects
 - 📫 Reach me on my [LinkedIn](https://www.linkedin.com/in/chandandev/)
