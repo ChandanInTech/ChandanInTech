@@ -2,9 +2,31 @@
 - 👀 I’m interested in working with UI and Data
 - 🌱 I’m currently learning Flutter and Data Science
 - 💞️ I’m looking to collaborate on Flutter Projects
-- 📫 Reach me on my [LinkedIn](https://www.linkedin.com/in/chandandev/)
 
+### Connect with me:
+
+<p align="left">
 <a href="https://linkedin.com/in/chandandev/" target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a>
+<a href="https://medium.com/@chandan.pro" target="blank"><img src="https://img.icons8.com/color/35/000000/medium.png"/></a>
+</p>
+
+### Languages and Tools:
+
+<p>
+<img src="https://img.icons8.com/color/35/000000/kotlin.png"/>
+<img src="https://img.icons8.com/color/35/000000/dart.png"/>
+<img src="https://img.icons8.com/color/35/000000/html-5--v1.png"/> 
+<img src="https://img.icons8.com/color/35/000000/css3.png"/> 
+<img src="https://img.icons8.com/color/35/000000/javascript--v1.png"/> 
+<img src="https://img.icons8.com/color/35/000000/python.png">
+<img src="https://img.icons8.com/fluency/35/000000/visual-studio-code-2019.png"/>
+<img src="https://img.icons8.com/color/35/000000/git.png"/> 
+<img src="https://img.icons8.com/color/35/000000/github.png"/> 
+<img src="https://img.icons8.com/color/35/000000/android.png"/>
+<img src="https://img.icons8.com/color/35/000000/flutter.png"/>
+<img src="https://img.icons8.com/color/35/000000/numpy.png"/>
+<img src="https://img.icons8.com/color/35/000000/pandas.png"/>
+</p>
 
 <!---
 ChandanInTech/ChandanInTech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
