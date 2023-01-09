@@ -17,7 +17,6 @@
 <img src="https://img.icons8.com/color/35/000000/java.png"/>
 <img src="https://img.icons8.com/color/35/000000/dart.png"/>
 <img src="https://img.icons8.com/color/35/000000/python.png">
-<img src="https://img.icons8.com/fluency/35/000000/visual-studio-code-2019.png"/>
 <img src="https://img.icons8.com/color/35/000000/git.png"/> 
 <img src="https://img.icons8.com/color/35/000000/github.png"/> 
 <img src="https://img.icons8.com/fluency/35/null/android-os.png"/>
