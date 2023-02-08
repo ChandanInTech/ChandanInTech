@@ -14,7 +14,7 @@
 
 <p>
 <img src="https://img.icons8.com/color/35/000000/kotlin.png"/>
-<img src="https://img.icons8.com/color/35/000000/java.png"/>
+<img src="https://img.icons8.com/color/35/null/java-coffee-cup-logo--v1.png"/>
 <img src="https://img.icons8.com/color/35/000000/dart.png"/>
 <img src="https://img.icons8.com/color/35/000000/python.png">
 <img src="https://img.icons8.com/color/35/000000/git.png"/> 
