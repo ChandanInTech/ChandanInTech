@@ -6,7 +6,7 @@
 ### Connect with me:
 
 <p align="left">
-<a href="https://linkedin.com/in/chandandev/" target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a>
+<a href="https://linkedin.com/in/chandanintech/" target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a>
 <a href="https://medium.com/@chandan.pro" target="blank"><img src="https://img.icons8.com/color/35/000000/medium.png"/></a>
 </p>
 
