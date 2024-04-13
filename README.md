@@ -1,13 +1,12 @@
-- 👋 Hi, this is Chandan, I'm an Android Developer
-- 👀 I’m interested in working with UI and Data
-- 🌱 I’m currently learning Flutter and Data Science
-- 💞️ I’m looking to collaborate on Flutter Projects
+- 👋 Hi, this is Chandan, I'm a Software Developer
+- Android
+- Flutter
+- Python
 
 ### Connect with me:
 
 <p align="left">
-<a href="https://linkedin.com/in/chandanintech/" target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a>
-<a href="https://medium.com/@chandan.pro" target="blank"><img src="https://img.icons8.com/color/35/000000/medium.png"/></a>
+<a href="https://www.linkedin.com/in/chx100/" target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a>
 </p>
 
 ### Languages and Tools:
