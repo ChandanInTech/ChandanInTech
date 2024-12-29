@@ -1,7 +1,4 @@
 - 👋 Hi, this is Chandan, I'm a Software Developer
-- Android
-- Flutter
-- Python
 
 ### Connect with me:
 
